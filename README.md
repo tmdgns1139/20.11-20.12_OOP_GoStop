@@ -8,7 +8,7 @@
 
 # :three: 고스톱(맞고) 규칙
 ## 3.1 <a href="https://m.blog.naver.com/limnado/221221500063" target="_blank">여기</a>를 참고하여 작성했습니다.
-### 3.1.1. 게임 시작 ([시나리오 링크]("./OOP20[Class03_Team06]_report_scenario.pdf"))
+### 3.1.1. 게임 시작 ([시나리오 링크](./OOP20[Class03_Team06]_report_scenario.pdf))
 
 맨 처음, 플레이어는 10장씩 갖고, 바닥에는 8장을 깔아둔다. (deck에는 20장의 카드가 남는다.)
 
